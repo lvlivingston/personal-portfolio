@@ -20,10 +20,20 @@ export default function Home() {
             I&apos;m passionate about people and improving the daily lives of others. A Full Stack Software Engineer, driven by a curiosity for learning, the opportunity to innovate, and a fervent desire to streamline inefficiencies. Past roles include project management, customer success, sales, and marketing, which opened the door to design, architecture, and organization. The mission is to clear obstacles and improve resource distribution to create premium user experiences. Reach out!
         </div>
         <ul>
-            <li>Languages / Frameworks: HTML, CSS, JavaScript, Canvas, JSON, EJS, Typescript, React, SQL, Python, Mongo, DTL, Bootstrap, Express.js, React (class based and hooks), Django, Jquery, RESTful Routing, JSON api, German</li>
+            <li>Languages / Frameworks: HTML, CSS, JavaScript, Canvas, JSON, EJS, Typescript, SQL, Python, DTL, Next.js, Bootstrap, Materialize, Mongo, Express.js, React (class based and hooks), Django, Jquery, RESTful Routing, JSON api, German</li>
             <li>Utilities: Visual Studio Code, CLI, Git, GitHub, MongoDB, Mongoose, PostgreSQL, Salesforce, HubSpot, Microsoft Office, GoToMeeting, Zoom, CompTIA Security+ Certification</li>
             <li>Interests: Cybersecurity, Identity and Access Management, Data, & Artificial Intelligence (AI)</li>
         </ul>
+        <div>
+          Check out my resume here{' '}
+              <a
+                href="https://drive.google.com/file/d/1k-X3cNCU5G22tQ279Nh70rlOKLVQjgeM/view?usp=drive_link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+              Resume on Google Drive
+            </a>
+        </div>
       </div>
     </>
   )
