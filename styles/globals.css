@@ -1,7 +1,7 @@
 /* Here is where you put element selectors, media queries, global pseudo selectors (like :root) */
 
 :root {
-  --bg-color: hotpink;
+  --bg-color: ffffff;
 }
 
 body {
