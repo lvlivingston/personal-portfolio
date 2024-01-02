@@ -25,13 +25,16 @@ export default function Home() {
             />
         </div>
         <div>
-          Check out my resume here{' '}
+          **Under Construction**
+        </div>
+        <div>
+          In the meantime, check out my resume here{' '}
               <a
                 href="https://drive.google.com/file/d/1k-X3cNCU5G22tQ279Nh70rlOKLVQjgeM/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-              Resume on Google Drive
+              Download from Google Drive
             </a>
         </div>
       </div>
