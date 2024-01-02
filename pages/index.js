@@ -16,8 +16,13 @@ export default function Home() {
       </Head>
       <h1>{`Leah Livingston's Portfolio`}</h1>
       <div>
-        <div>
-        ![Loading](../public/loading.gif)
+        <div className={styles.imageContainer}>
+          <Image 
+              src="/loading.gif"
+              alt="Loading"
+              width={100}
+              height={50}
+            />
         </div>
         <div>
           Check out my resume here{' '}
