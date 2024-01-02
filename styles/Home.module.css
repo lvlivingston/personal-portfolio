@@ -229,11 +229,11 @@
 }
 
 .imageContainer {
-  width: 100%; /* Default width for mobile */
+  width: 75%;
 }
 
 @media (min-width: 768px) {
   .imageContainer {
-    width: 50%; /* Adjusted width for screens wider than 768px (laptops and larger) */
+    width: 50%; 
   }
 }
