@@ -25,10 +25,10 @@ export default function Home() {
             />
         </div>
         <div>
-          **This site is under construction. Thanks for ignoring the appearance.**
+          ** Ojé... you caught this site under construction. Please try again later **
         </div>
         <div>
-          In the meantime, check out my resume here ➡️ {' '}
+          And in the meantime, see my resume here ➡️ {' '}
               <a
                 href="https://drive.google.com/file/d/1k-X3cNCU5G22tQ279Nh70rlOKLVQjgeM/view?usp=drive_link"
                 target="_blank"
