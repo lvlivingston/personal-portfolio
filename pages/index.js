@@ -14,6 +14,16 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <style jsx global>{`
+        body {
+          background-image: url('/clouds.jpeg');
+          background-size: cover;
+          background-repeat: no-repeat;
+          margin: 0; 
+          padding: 0; 
+          font-family: ${inter}; 
+        }
+      `}</style>
       <h1>{`Leah Livingston's Portfolio`}</h1>
       <div>
         <div className={styles.imageContainer}>
