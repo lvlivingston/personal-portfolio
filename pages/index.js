@@ -25,7 +25,7 @@ export default function Home() {
             />
         </div>
         <div>
-          ** Ojé... you caught this site under construction. Please try again later **
+          ** Ojé... you caught this site under construction. Please come back later. **
         </div>
         <div>
           And in the meantime, see my resume here ➡️ {' '}
